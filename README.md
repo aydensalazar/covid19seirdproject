@@ -8,6 +8,8 @@ SEIRD (which stands for **Susceptible** → **Exposed** → **Infected** → **R
 
 ![The SEIRD equations](SEIRD_equations.png)
 
+Source: http://gabgoh.github.io/COVID/index.html
+
 How to get started: 
 
 1. To get started with the application, clone the repository via your terminal:
