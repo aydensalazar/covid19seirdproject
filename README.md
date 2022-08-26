@@ -12,7 +12,7 @@ Next, run the main.py file:
 
 You will be greeted with the dashboard. Feel free to customize the dynamic settings to simulate your own COVID-19 epidemic. Click "Generate Graph" to deploy your scenario. 
 
-![An example of a simulation run](example_run.png)
+![An example of a simulation run](example_run_pic.png)
 
 
 
