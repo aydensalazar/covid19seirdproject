@@ -53,6 +53,7 @@ def plotseird(t, S, E, I, R, D=None, L=None, R0=None, Alpha=None, CFR=None):
         ax.plot(t, S+E+I+R, 'c--', alpha=0.7, linewidth=2, label='Total')
 
     ax.set_xlabel('Time (days)')
+    ax.set_ylabel('Number of People')
 
     ax.yaxis.set_tick_params(length=0)
     ax.xaxis.set_tick_params(length=0)
